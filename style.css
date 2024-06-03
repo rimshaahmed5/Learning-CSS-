@@ -1,0 +1,40 @@
+*{
+    background-color: aqua;
+    color: brown;
+}
+h1,h2,h3{
+    color: blueviolet;
+    text-align: center;
+}
+
+
+.abc{
+    color: black;
+    background-color: red;
+    text-align: right
+    ;
+}
+#xyz{
+color: antiquewhite;
+background-color: pink;
+}
+p.abc{
+    color: black;
+    background-color: red;
+    text-align: right
+    ;
+}
+p{
+    color: black;
+    background-color: palevioletred;
+    text-align: center;
+    font-size: medium;
+}
+li> a{
+    color: brown;
+    background-color: red;
+}
+h1+p{
+    color: chartreuse;
+    background-color: black;
+}
